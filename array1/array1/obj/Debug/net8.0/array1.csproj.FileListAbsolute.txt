@@ -1,0 +1,14 @@
+C:\Users\dominio 1\Desktop\Gabriel Vieira\array1\array1\bin\Debug\net8.0\array1.exe
+C:\Users\dominio 1\Desktop\Gabriel Vieira\array1\array1\bin\Debug\net8.0\array1.deps.json
+C:\Users\dominio 1\Desktop\Gabriel Vieira\array1\array1\bin\Debug\net8.0\array1.runtimeconfig.json
+C:\Users\dominio 1\Desktop\Gabriel Vieira\array1\array1\bin\Debug\net8.0\array1.dll
+C:\Users\dominio 1\Desktop\Gabriel Vieira\array1\array1\bin\Debug\net8.0\array1.pdb
+C:\Users\dominio 1\Desktop\Gabriel Vieira\array1\array1\obj\Debug\net8.0\array1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dominio 1\Desktop\Gabriel Vieira\array1\array1\obj\Debug\net8.0\array1.AssemblyInfoInputs.cache
+C:\Users\dominio 1\Desktop\Gabriel Vieira\array1\array1\obj\Debug\net8.0\array1.AssemblyInfo.cs
+C:\Users\dominio 1\Desktop\Gabriel Vieira\array1\array1\obj\Debug\net8.0\array1.csproj.CoreCompileInputs.cache
+C:\Users\dominio 1\Desktop\Gabriel Vieira\array1\array1\obj\Debug\net8.0\array1.dll
+C:\Users\dominio 1\Desktop\Gabriel Vieira\array1\array1\obj\Debug\net8.0\refint\array1.dll
+C:\Users\dominio 1\Desktop\Gabriel Vieira\array1\array1\obj\Debug\net8.0\array1.pdb
+C:\Users\dominio 1\Desktop\Gabriel Vieira\array1\array1\obj\Debug\net8.0\array1.genruntimeconfig.cache
+C:\Users\dominio 1\Desktop\Gabriel Vieira\array1\array1\obj\Debug\net8.0\ref\array1.dll
