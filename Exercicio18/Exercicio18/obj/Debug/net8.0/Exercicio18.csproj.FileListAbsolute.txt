@@ -1,0 +1,14 @@
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio18\Exercicio18\bin\Debug\net8.0\Exercicio18.exe
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio18\Exercicio18\bin\Debug\net8.0\Exercicio18.deps.json
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio18\Exercicio18\bin\Debug\net8.0\Exercicio18.runtimeconfig.json
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio18\Exercicio18\bin\Debug\net8.0\Exercicio18.dll
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio18\Exercicio18\bin\Debug\net8.0\Exercicio18.pdb
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio18\Exercicio18\obj\Debug\net8.0\Exercicio18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio18\Exercicio18\obj\Debug\net8.0\Exercicio18.AssemblyInfoInputs.cache
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio18\Exercicio18\obj\Debug\net8.0\Exercicio18.AssemblyInfo.cs
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio18\Exercicio18\obj\Debug\net8.0\Exercicio18.csproj.CoreCompileInputs.cache
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio18\Exercicio18\obj\Debug\net8.0\Exercicio18.dll
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio18\Exercicio18\obj\Debug\net8.0\refint\Exercicio18.dll
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio18\Exercicio18\obj\Debug\net8.0\Exercicio18.pdb
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio18\Exercicio18\obj\Debug\net8.0\Exercicio18.genruntimeconfig.cache
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio18\Exercicio18\obj\Debug\net8.0\ref\Exercicio18.dll
