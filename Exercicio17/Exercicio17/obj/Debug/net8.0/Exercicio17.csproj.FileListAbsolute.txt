@@ -1,0 +1,14 @@
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio17\Exercicio17\bin\Debug\net8.0\Exercicio17.exe
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio17\Exercicio17\bin\Debug\net8.0\Exercicio17.deps.json
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio17\Exercicio17\bin\Debug\net8.0\Exercicio17.runtimeconfig.json
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio17\Exercicio17\bin\Debug\net8.0\Exercicio17.dll
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio17\Exercicio17\bin\Debug\net8.0\Exercicio17.pdb
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio17\Exercicio17\obj\Debug\net8.0\Exercicio17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio17\Exercicio17\obj\Debug\net8.0\Exercicio17.AssemblyInfoInputs.cache
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio17\Exercicio17\obj\Debug\net8.0\Exercicio17.AssemblyInfo.cs
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio17\Exercicio17\obj\Debug\net8.0\Exercicio17.csproj.CoreCompileInputs.cache
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio17\Exercicio17\obj\Debug\net8.0\Exercicio17.dll
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio17\Exercicio17\obj\Debug\net8.0\refint\Exercicio17.dll
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio17\Exercicio17\obj\Debug\net8.0\Exercicio17.pdb
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio17\Exercicio17\obj\Debug\net8.0\Exercicio17.genruntimeconfig.cache
+C:\Users\gbvie\OneDrive\Área de Trabalho\Programação\C#\Exercicio17\Exercicio17\obj\Debug\net8.0\ref\Exercicio17.dll
