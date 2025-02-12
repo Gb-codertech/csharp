@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 public class Exercicio17
 {
@@ -9,10 +9,10 @@ public class Exercicio17
         int[] anosLancamento = { 1999, 2010, 2014 };
 
         // Percorrer arrays com FOR
-        Console.WriteLine("Filmes percorridos com for:");
+        Console.WriteLine("Filmes e seus lançamentos:");
         for (int contador = 0; contador < nomesFilmes.Length; contador++)
         {
-            Console.WriteLine("Filme: " + (nomesFilmes[contador]) +  " - Ano: " + (anosLancamento[contador]));
+            Console.WriteLine($"{nomesFilmes[contador]} - {anosLancamento[contador]}");
         }
     }
 }
